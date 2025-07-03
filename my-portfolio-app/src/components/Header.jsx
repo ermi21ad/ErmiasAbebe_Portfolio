@@ -22,7 +22,7 @@ export default function Header({ darkMode, setDarkMode }) {
               />
             </g>
           </svg>
-          <Typography variant="h6" fontWeight="bold">Portfolio</Typography>
+          <Typography variant="h6" fontWeight="bold">ERMIAS-ABEBE-ZEWDIE</Typography>
         </Box>
         
         <Box sx={{ display: { xs: 'none', md: 'flex' }, alignItems: 'center', gap: 4 }}>
@@ -55,7 +55,7 @@ export default function Header({ darkMode, setDarkMode }) {
           </IconButton>
           
           <Avatar 
-            src="/p6.jpg" // Same photo as hero section
+            src="/p6.jpg" 
             sx={{ 
               width: 40, 
               height: 40,

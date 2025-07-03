@@ -6,7 +6,7 @@ const skillCategories = [
   {
     icon: <Computer />,
     name: 'Web Dev',
-    skills: ['HTML', 'CSS', 'JS', 'Tailwind', 'Node.js', 'React']
+    skills: ['HTML', 'CSS', 'JS', 'Tailwind', 'Node.js', 'React','Material UI','bootstrap' ,'Python', 'Arduino', 'MySQL', 'MongoDB']
   },
   {
     icon: <Settings />,
@@ -21,7 +21,7 @@ const skillCategories = [
   {
     icon: <Build />,
     name: 'Tools',
-    skills: ['Git', 'MySQL', 'VS Code', 'XAMPP']
+    skills: ['Github', 'VS Code', 'XAMPP','Arduino IDE']
   }
 ]
 

@@ -23,7 +23,7 @@ const socialLinks = [
   { icon: <GitHub />, label: 'GitHub', url: 'https://github.com/ermi21ad' },
   { icon: <LinkedIn />, label: 'LinkedIn', url: 'https://www.linkedin.com/in/ermias-abebe-0a8b702b4' },
   { icon: <Telegram />, label: 'Telegram', url: 'https://t.me/Jeremiah1994' },
-  { icon: <InsertDriveFile />, label: 'Resume', url: 'https://drive.google.com/file/d/1LRqnhCfzPbOPE7M6c1eR-O9nepIKkpZA/view?usp=sharing' },
+  { icon: <InsertDriveFile />, label: 'Resume', url: 'https://drive.google.com/file/d/106abaYs-M5zqZJiiNLzVT8nFk_mLdIgJ/view?usp=sharing' },
   { icon: <Phone />, label: 'Call Me', url: 'tel:+251965335366' }
 ];
 

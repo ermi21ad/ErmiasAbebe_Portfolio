@@ -146,7 +146,7 @@ export default function Hero() {
             maxWidth: '600px',
             mx: 'auto'
           }}>
-            Graduate Engineer | Network & Systems Enthusiast | Full-stack Web Developer
+             Engineer | Web Developer |  Network & Systems Enthusiast
           </Typography>
         </motion.div>
         
@@ -168,7 +168,7 @@ export default function Hero() {
                 boxShadow: '0 6px 20px rgba(12,127,242,0.4)'
               }
             }}
-            href="https://drive.google.com/file/d/1LRqnhCfzPbOPE7M6c1eR-O9nepIKkpZA/view?usp=sharing"
+            href="https://drive.google.com/file/d/106abaYs-M5zqZJiiNLzVT8nFk_mLdIgJ/view?usp=sharing"
           >
             Download Resume
           </Button>

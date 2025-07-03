@@ -61,7 +61,7 @@ export default function Internship() {
               Amhara Pipe Factory PLC - ICT Department
             </Typography>
             <Typography variant="h5" fontWeight="bold" gutterBottom sx={{ mt: 1 }}>
-              16-Week Intensive Internship
+              16-Week Internship on Networking
             </Typography>
             <Typography variant="body1" paragraph>
               Gained hands-on experience in setting up physical network infrastructure, 
